@@ -1,4 +1,4 @@
-identity = input('write your name,ocupation,age,gender')
+identity = input('write your name,ocupation,age,gender1')
 file = open("test.txt","x")
 file.close()
 file = open("test.txt","w")
