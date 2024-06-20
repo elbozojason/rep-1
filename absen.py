@@ -21,4 +21,4 @@ while identity != 'exit':
         file.write(identity)
         file.close()
     else:
-        print('already logged in')
+        print('already logged in, bozo!')
